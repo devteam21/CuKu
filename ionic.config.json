@@ -1,0 +1,7 @@
+{
+  "name": "CuKu",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
